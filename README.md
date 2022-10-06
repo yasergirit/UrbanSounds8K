@@ -23,4 +23,4 @@ A numeric identifier of the sound class:
 - 8 = siren
 - 9 = street_music
 
-For more information abour data visit [https://urbansounddataset.weebly.com/](https://urbansounddataset.weebly.com/)
+For more information: [https://urbansounddataset.weebly.com/](https://urbansounddataset.weebly.com/)
